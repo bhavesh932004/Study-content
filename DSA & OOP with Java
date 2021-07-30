@@ -1,0 +1,164 @@
+Source : Kunal Kuswaha Bootcamp’s course structure (His bootcamp : https://www.youtube.com/channel/UCwY7chGINzoVuEB3mWOi_zw)
+DP sub-section : coderbyte
+
+ Arrays
+    •	Introduction
+    •	Memory Management
+    •	Input and Output
+    •	ArrayList Introduction
+    •	Sorting
+        o	Insertion Sort
+        o	Selection Sort
+        o	Bubble Sort
+        o	Quick Sort
+        o	Count Sort
+        o	Radix Sort
+    •	Searching
+        o	Linear Search
+        o	Binary Search
+        o	Modified binary search
+    •	Sliding Window
+    •	Two Pointer
+    •	Subarray Questions
+
+	Strings
+    •	How Strings work
+    •	Comparison of methods
+    •	Operations in Strings
+    •	StringsBuilder in Java
+	Maths for DSA
+    •	Complete Bitwise Operators/ Bit manipulation
+    •	Prime numbers
+    •	HCF / LCM
+    •	Seive of Eratosthenes
+    •	Newton’s Square Root Method
+    •	Number theory
+    •	Euclidean algorithm
+    •	Advanced Concepts for CP
+        o	Bitwise + DP
+        o	Extended Euclidean algorithm
+        o	Modulo properties
+        o	Modulo multiplicative inverse
+        o	Linear Diophantine equations
+        o	Fremat’s theorem
+        o	Wilson’s theorem
+        o	Lucas theorem
+        o	Chinese Remainder theorem
+	Funtions
+    •	Solving the above math problems in code
+    •	Scoping in Java
+    •	Shadowing 
+    •	Variable length arguments
+    •	Overloading
+	Space and Time Complexity Analysis
+    •	Comparison of various cases
+    •	Solving linear recurrence relations
+    •	Big-O, Big-Omega, Big-Theta notations
+    •	Get equations of any relation easily – best and easiest approach
+    •	Complexity discussion of all the problems you do
+    •	Space Complexity 
+    •	Memory allocation of various languages
+    •	NP completeness and hardness
+	Recursion
+    •	Introduction
+    •	Why recursion
+    •	Flow of recursive programs – stacks
+    •	Convert recursion to iteration
+    •	Tree building of function calls
+    •	Tail recursion
+    •	Sorting
+        o	Merge sort
+        o	Quick sort
+        o	Cyclic sort
+    •	Backtracking
+        o	Sudoku Solver
+        o	N-Queens
+        o	N-Knights
+        o	Maze problems
+    •	Recursion string problems
+    •	Recursion array problems
+    •	Recursion pattern problems
+    •	Subset Questions
+	Object Oriented Programming
+    •	Introduction
+    •	Classes & its instances
+    •	this keyword in Java
+    •	Properties
+        o	Inheritance
+        o	Abstraction
+        o	Polymorphism
+        o	Encapsulation
+    •	Overloading & Overriding
+    •	Static & Non-static
+    •	Access control
+    •	Interfaces
+    •	Abstract Classes
+    •	Singleton Class
+    •	Final, finalize, finally
+	Stacks
+	Queues
+	Linked List
+    •	Introduction
+    •	Fast and slow pointer
+    •	Cycle detection
+    •	Single and doubly linked list
+    •	Reversal of linked list
+	Dynamic Programming
+    •	Brute force
+        o	Visualise the problem as a tree
+        o	Implement the tree using recursion 
+        o	Test it
+    •	Efficiency (that’s where the DP comes in actionHa
+        o	Memoizaion
+            Add a memoization object
+ 	          Add a base case to return memoization values
+          	Store return values into the memoiazaion objects
+        o	Tabulation
+ 	          Step 1
+ 	          Step 2
+ 	          Step 3
+    •	0/1 knapsack 
+	Binary Trees
+    •	DFS
+    •	BFS
+    •	AVL Trees
+    •	Segment Tree
+	Square root decompostion
+	Heaps & Priority Queue
+	Two heaps method
+    •	Many intervies patterns
+        o	k-way merge
+        o	Top k elements
+	Hashmaps
+    •	Introduction
+    •	Theory – how it works
+    •	Comparisons of various forms
+    •	Limitations and how to solve
+    •	Map using linked list
+    •	Map using Has
+    •	Chaining
+    •	Probing
+	Tries
+	Graphs
+    •	Introduction
+    •	BFS
+    •	DFS
+    •	Working with graph components
+    •	Minimum spanning trees
+    •	Kruskal algorithm
+    •	Prims algorithm
+    •	Dijkstra’s shortest path algorithm
+    •	Topological sort
+    
+    
+Books : Introduction to algorithms (Author - Thomas Cormen)
+        Data Structures and Algorithms made easy (Author - Narsimha Karumuchi)
+
+Videos : 1. MIT 6.006 Introduction to Algorithms, Fall 2011 (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+         2. Data Structures and Algorithms by Dr. Naveen Garg, IIT Delhi (https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F)
+         3. Coderbyte (https://www.youtube.com/channel/UCOJtQcnBnIy4LERo6vkrItg)
+      
+Websites for problems : Leetcode 
+                        Codeforces (practise contests with editorials)
+                        Codechef (practise contests with editorials)
+                        Atcoder (practise contests with editorials)
